@@ -1,0 +1,66 @@
+﻿  MyfirestCPPApp.cpp
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsString.h(34,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsString.h(56,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsString.h(166,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsString.h(295,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsString.h(343,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsUser.h(182,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'MyfirestCPPApp.cpp')
+      C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsUser.h(32,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(36,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(407,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(413,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(423,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(490,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(491,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(492,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsAddNewClientScreen.h(32,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsMainScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyfirestCPPApp.cpp')
+  
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsBankClient.h(353,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\MyfirestCPPApp\clsUser.h(339,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  MyfirestCPPApp.vcxproj -> C:\Users\Abdulrahaman Elazab\source\repos\MyfirestCPPApp\x64\Debug\MyfirestCPPApp.exe
